@@ -8,9 +8,10 @@
 This project is an application designed to supports the development of NEAR BOS components, enhanced by AI-generated code suggestions. It features a canvas-based UI that allows users to visualize component relationships
 <p align="center">
   <a href="https://gitpoint.co/">
-    <img alt="GitPoint" title="GitPoint" src="https://github.com/user-attachments/assets/838cc122-fbd3-4504-a0ca-1e9b7318fb95" width="800">
+    <img alt="GitPoint" title="GitPoint" src="https://github.com/user-attachments/assets/5be67b23-5da8-421c-85af-c8fc540de04f" width="800">
   </a>
 </p>
+
 
 #### Launch Demo🌈: [nearstack.weminal](https://www.nearstack.weminal.com/)
 
