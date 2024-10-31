@@ -18,6 +18,8 @@ This project is an application designed to supports the development of NEAR BOS 
 
 ## 📑 Table of Contents
 - [Planned Code Deliverables during the Hackathon](#Using-Nearstack)
+- [Project Background](#Using-Nearstack)
+- [ Problems Nearstack Aims to Solve](#Using-Nearstack)
 - [Overview](#overview)
 - [Features](#features)
 - [Technical Architecture](#project-structure)
