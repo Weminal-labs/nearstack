@@ -8,7 +8,7 @@
 This project is an application designed to supports the development of NEAR BOS components, enhanced by AI-generated code suggestions. It features a canvas-based UI that allows users to visualize component relationships
 <p align="center">
   <a href="https://gitpoint.co/">
-    <img alt="GitPoint" title="GitPoint" src="https://github.com/user-attachments/assets/5be67b23-5da8-421c-85af-c8fc540de04f" width="800">
+    <img alt="GitPoint" title="GitPoint" src="https://github.com/user-attachments/assets/d08803c8-2552-42bd-b08c-fc2e391204ee" width="800">
   </a>
 </p>
 
