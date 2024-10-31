@@ -47,7 +47,7 @@ This project is an application designed to supports the development of NEAR BOS 
 
 <p align="center">
   <a href="https://gitpoint.co/">
-    <img alt="GitPoint" title="GitPoint" src="https://github.com/user-attachments/assets/ef694cf5-4fbf-4b8b-b470-6a4beba13eb7" width="800">
+    <img alt="GitPoint" title="GitPoint" src="https://github.com/user-attachments/assets/ecd6f2d3-0b6d-408f-bc7e-9d4385a8c20f" width="800">
   </a>
 </p>
 
