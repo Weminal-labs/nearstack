@@ -13,6 +13,12 @@ This project is an application designed to supports the development of NEAR BOS 
 </p>
 
 
+
+
+https://github.com/user-attachments/assets/86f21a29-32b3-4a73-b8a7-d96957ba314d
+
+
+
 #### Launch Demo🌈: [nearstack.weminal](https://www.nearstack.weminal.com/)
 
 
