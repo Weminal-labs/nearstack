@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/AnhQuan2004/deploy_LLM_EC2.git
+[submodule "landing-page"]
+	path = landing-page
+	url = https://github.com/lochoang174/nearstack-landing-page.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/lochoang174/nearstack.git
