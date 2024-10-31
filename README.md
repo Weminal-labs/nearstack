@@ -15,6 +15,7 @@ This project is an application designed to supports the development of NEAR BOS 
 
 #### Launch Demo🌈: [nearstack.weminal](https://www.nearstack.weminal.com/)
 
+
 ## 📑 Table of Contents
 - [Overview](#overview)
 - [Features](#features)
@@ -23,6 +24,29 @@ This project is an application designed to supports the development of NEAR BOS 
 - [Advanced Features](#Advanced-Features)
 - [Contributing](#contributing)
 - [License](#license)
+
+# **Planned Code Deliverables during the Hackathon**
+
+### Frontend 
+- Chat Windows.
+- Editor Window.
+- Reactflow UI 
+  
+
+### Backend (deploy)
+
+
+### AI 
+- Code Snippet Generation
+ 
+---
+### **Project Logo**
+
+<p align="center">
+  <a href="https://gitpoint.co/">
+    <img alt="GitPoint" title="GitPoint" src="https://github.com/user-attachments/assets/ef694cf5-4fbf-4b8b-b470-6a4beba13eb7" width="800">
+  </a>
+</p>
 
 ## Overview
 This repository contains nearstack source code, include: frontend, backend, AI and landing page.
@@ -51,7 +75,7 @@ Nearstack is an innovative platform designed to streamline Web3 frontend develop
   Streamlines frontend code management, allowing developers to focus on functionality rather than setup.
   Combines visual mapping with NEAR components to optimize the dApp-building process.
 
-
+## Problems Nearstack Aims to Solve
 
 ## Project Structure
 
@@ -62,26 +86,6 @@ Nearstack is an innovative platform designed to streamline Web3 frontend develop
 ├── AI  
 └── README.md
 ```
-
-
-## Using Nearstack
-
-### Dashboard Overview
-
-### NEAR BOS Components
-
-### AI-Powered Code Suggestions
-
-### React Flow Visualization
-
-## Advanced Features
-
-### Customizing Component Interactions
-
-### Integrating Third-Party Libraries
-
-### Optimizing AI Suggestions
-
 
 
 
