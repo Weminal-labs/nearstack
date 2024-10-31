@@ -123,30 +123,30 @@ Nearstack is an innovative platform designed to streamline Web3 frontend develop
 
 ## **Team Information**
 
-- Lê Khắc Thanh Tùng
+- ***Lê Khắc Thanh Tùng*** <br>
   **Role**: Fullstack Developer  
   **Github**: https://github.com/DangTinh422003  
-  **Email**: caodangtinh04022003@gmail.com  
+  **Email**:   
 
-- Đỗ Phạm Phúc Tính  
-  **Role**: AI Developer
-  **Github**: [PhucLam202](https://github.com/PhucLam202)  
-  **Email**: lamthanhphucit@gmail.com  
+- ***Đỗ Phạm Phúc Tính***<br>
+  **Role**: AI Developer  
+  **Github**: [PhucLam202](https://github.com/PhucLam202)<br>
+  **Email**:   
 
-- Hoàng Phú Lộc  
-  **Role**: Frontend developer  
-  **Github**: [lochoang174](https://github.com/lochoang174)   
+- ***Hoàng Phú Lộc***<br>
+  **Role**: Frontend developer   
+  **Github**: [lochoang174](https://github.com/lochoang174)<br>
   **Email**:  
 
-- Võ Nguyên Phú Quí
-  **Role**: Blockchain Developer   
+- ***Võ Nguyên Phú Quí*** <br>
+  **Role**: Blockchain Developer   <br>
   **Github**: [phuquivo03](https://github.com/phuquiivo03)  
   **Email**: phuquivo03.cb@gmail.com
 
-- Anh Quân
+- ***Anh Quân***<br>
   **Role**: AI Developer   
   **Github**: [AnhQuan2004](https://github.com/AnhQuan2004)  
-  **Email**: phuquivo03.cb@gmail.com 
+  **Email**:  
 ---
 
 
