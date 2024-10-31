@@ -17,12 +17,13 @@ This project is an application designed to supports the development of NEAR BOS 
 
 
 ## 📑 Table of Contents
+- [Planned Code Deliverables during the Hackathon](#Using-Nearstack)
 - [Overview](#overview)
 - [Features](#features)
+- [Technical Architecture](#project-structure)
 - [Project Structure](#project-structure)
-- [Using Nearstack](#Using-Nearstack)
-- [Advanced Features](#Advanced-Features)
-- [Contributing](#contributing)
+- [How does Nearstack work](#Using-Nearstack)
+- [Team Information](#contributing)
 - [License](#license)
 
 # **Planned Code Deliverables during the Hackathon**
@@ -142,7 +143,7 @@ Nearstack is an innovative platform designed to streamline Web3 frontend develop
   **Github**: [phuquivo03](https://github.com/phuquiivo03)  
   **Email**: phuquivo03.cb@gmail.com
 
-  - Anh Quân
+- Anh Quân
   **Role**: AI Developer   
   **Github**: [AnhQuan2004](https://github.com/AnhQuan2004)  
   **Email**: phuquivo03.cb@gmail.com 
