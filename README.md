@@ -39,6 +39,7 @@ This project is an application designed to supports the development of NEAR BOS 
 ### Backend (deploy)
 
 
+
 ### AI 
 - Code Snippet Generation
  
@@ -106,6 +107,9 @@ Nearstack is an innovative platform designed to streamline Web3 frontend develop
 ---
 
 ## Technical Architecture
+
+<img width="1087" alt="flow" src="https://github.com/user-attachments/assets/efb82b29-58c3-4000-8447-468f61e5784b">
+
 
 ## Project Structure
 
