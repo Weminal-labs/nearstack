@@ -100,8 +100,9 @@ Nearstack is an innovative platform designed to streamline Web3 frontend develop
 
   Streamlines frontend code management, allowing developers to focus on functionality rather than setup.
   Combines visual mapping with NEAR components to optimize the dApp-building process.
+---
 
-
+## Technical Architecture
 
 ## Project Structure
 
@@ -112,6 +113,40 @@ Nearstack is an innovative platform designed to streamline Web3 frontend develop
 ├── AI  
 └── README.md
 ```
+
+## How does Nearstack work
+- ***User Input:*** The user provides a text prompt or description of the components.
+- ***AI Processing & Code Generation:***
+- ***Generate a node and visualize on Reactflow UI:***
+
+
+## **Team Information**
+
+- Lê Khắc Thanh Tùng
+  **Role**: Fullstack Developer  
+  **Github**: https://github.com/DangTinh422003  
+  **Email**: caodangtinh04022003@gmail.com  
+
+- Đỗ Phạm Phúc Tính  
+  **Role**: AI Developer
+  **Github**: [PhucLam202](https://github.com/PhucLam202)  
+  **Email**: lamthanhphucit@gmail.com  
+
+- Hoàng Phú Lộc  
+  **Role**: Frontend developer  
+  **Github**: [lochoang174](https://github.com/lochoang174)   
+  **Email**:  
+
+- Võ Nguyên Phú Quí
+  **Role**: Blockchain Developer   
+  **Github**: [phuquivo03](https://github.com/phuquiivo03)  
+  **Email**: phuquivo03.cb@gmail.com
+
+  - Anh Quân
+  **Role**: AI Developer   
+  **Github**: [AnhQuan2004](https://github.com/AnhQuan2004)  
+  **Email**: phuquivo03.cb@gmail.com 
+---
 
 
 
