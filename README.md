@@ -48,6 +48,32 @@ This project is an application designed to supports the development of NEAR BOS 
   </a>
 </p>
 
+## Project Background
+
+Nearstack was created to address the challenges of frontend development in Web3, specifically for the NEAR ecosystem. Traditional tools often fall short in handling blockchain interactions and visualizing complex component relationships. By integrating NEAR BOS components and offering AI-driven code suggestions, Nearstack streamlines dApp development, enhancing productivity and accessibility. Its React flow interface helps developers understand and optimize component interactions. 
+
+## Problems Nearstack Aims to Solve
+
+- Complexity of Web3 Frontend Development
+
+  - Traditional frontend tools aren't optimized for blockchain interactions, making Web3 development more challenging and time-consuming.
+
+- Lack of Visual Component Mapping
+
+  - Developers struggle to understand how components interact in decentralized applications, leading to inefficient workflows and increased errors.
+
+- Limited AI Assistance in Web3 Coding
+
+  - Existing tools lack intelligent code suggestions tailored for Web3, leaving developers without optimized support for blockchain-specific tasks.
+
+- Difficulty in Integrating NEAR Components
+
+  - Using NEAR BOS components in frontend development can be complex, slowing down the development process.
+
+- Need for Enhanced Developer Efficiency
+
+  - Web3 projects require efficient workflows; Nearstack helps developers work faster and more effectively by simplifying component relationships and code management.
+---
 ## Overview
 This repository contains nearstack source code, include: frontend, backend, AI and landing page.
 Nearstack is an innovative platform designed to streamline Web3 frontend development, specifically for applications built on the NEAR Protocol. Leveraging AI-generated code suggestions, Nearstack simplifies the development process and boosts productivity. The platform includes a React flow interface, allowing developers to visualize and understand the relationships between components, making it easier to manage complex frontend architectures.
@@ -75,7 +101,7 @@ Nearstack is an innovative platform designed to streamline Web3 frontend develop
   Streamlines frontend code management, allowing developers to focus on functionality rather than setup.
   Combines visual mapping with NEAR components to optimize the dApp-building process.
 
-## Problems Nearstack Aims to Solve
+
 
 ## Project Structure
 
